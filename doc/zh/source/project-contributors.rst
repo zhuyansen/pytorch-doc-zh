@@ -32,6 +32,7 @@
 -  `@胡东瑶 <https://github.com/psubnwell>`__
 -  `@jizg <https://github.com/jizg>`__
 -  `@小乔 <https://github.com/QiaoXie>`__
+-  `@祝彦森 <https://github.com/zhuyansen>`__
 
 建议反馈
 --------
